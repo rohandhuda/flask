@@ -31,5 +31,5 @@ jobs:
 
       - name: Run your deployment script
         run: |
-          # Replace this with your deployment command
+          
           python app.py
